@@ -7,4 +7,37 @@ body{
 nav{
     background-color: #1F2937;
     display: flex;
+    justify-content: space-between;
+}
+
+nav .logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    align-items: center;
+    display: flex;
+    margin-left: 100px;
+}
+
+nav .links{
+    align-items: center;
+    display: flex;
+    margin-right: 170px;
+}
+
+nav .links a{
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+.landing{
+    display: flex;
+
+}
+
+.landing h1{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
 }
