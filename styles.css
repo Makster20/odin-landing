@@ -190,3 +190,12 @@ nav .links a{
     padding: 5px 40px;
     background-color: rgba(0, 0, 0, 0);
 }
+
+.copyright{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 47px 0;
+    font-size: 20px;
+    color: #E5E7EB;
+}
